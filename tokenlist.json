@@ -1,0 +1,16 @@
+{
+  "name": "My Token List",
+  "logoURI": "https://raw.githubusercontent.com/mrstevejones02-tech/my-token-assets/main/logo.png",
+  "keywords": ["usdt", "stablecoin", "clone"],
+  "timestamp": "2025-11-01T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xe9b5f16e3ec951b9e11f1098f5dfd55ad7cc2ed0",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mrstevejones02-tech/my-token-assets/main/logo.png"
+    }
+  ]
+}
